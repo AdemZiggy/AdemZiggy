@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently third year student at https://www.fit.ba/"FIT"<br>Currently learning C# and Angular.
+Currently third year student at <a href="https://www.fit.ba/" target="_blank">FIT</a><br>Currently learning C# and Angular.
 
 
 ## 🌐 Socials:
